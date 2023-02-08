@@ -1,6 +1,6 @@
 ![IronHack Logo](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_d5c5793015fec3be28a63c4fa3dd4d55.png)
 
-![laliga-h-600x600](https://user-images.githubusercontent.com/111898790/217638741-916abae3-dd5a-4292-8eef-6861512c3961.jpg)
+![laliga-v-16-9](https://user-images.githubusercontent.com/111898790/217639136-ff91baa8-b257-4ed9-be61-f783e5fced85.jpg)
 
 
 # Project: Visualizing Real World Data
